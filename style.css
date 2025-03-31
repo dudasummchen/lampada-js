@@ -1,4 +1,38 @@
-.lamp{
-    width: 100px;
-    height: 30px;
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+ background-color: rgb(109, 104, 109);
 }
+.bloco{
+ height: 500px;
+ width: 500px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ background-color: rgb(38, 20, 112);
+  border-radius: 40px ;
+}
+.lamp{
+    height: 498px;
+    width: 697px;
+    margin-top: -84px;
+  }
+  
+  .botoes {
+    margin-right: 10px;
+    margin-top: -70px;
+  }
+
+  button{
+    height: 35px;
+    width: 100px;
+    font-family: "Poppins" , sans-serif;
+    background-color: rgb(52, 52, 75);
+    color: white;
+    border: 2px solid #120d2a; 
+    margin: 4px;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
