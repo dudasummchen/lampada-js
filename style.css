@@ -29,10 +29,8 @@ body {
     height: 35px;
     width: 100px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(24, 98, 176);
     color: white;
+    background-color: rgb(24, 98, 176);
     border: 2px solid #120d2a; 
     margin: 4px;
-    
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    }
+  }
